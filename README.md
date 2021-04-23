@@ -1,6 +1,6 @@
 # sentiment-analysis
 
-This is the final project for NLP which should be subited before april 24th 2021.
+This is the final project for NLP which should be subited before April 24th 2021.
 
 Mo LI and Zhonghao LI both participated into this project.
 
